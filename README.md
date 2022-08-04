@@ -1,8 +1,7 @@
 # Classifier-Voting
-Classifier Voting
 
-Hard Voting
-Soft Voting
+a) Hard Voting
+b) Soft Voting
 
 
 Voting Classifiers¶
