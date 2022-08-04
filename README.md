@@ -1,9 +1,5 @@
 # Classifier-Voting
 
-a) Hard Voting
-b) Soft Voting
-
-
 Voting Classifiers¶
 A Voting Classifier is a machine learning model that trains on an ensemble of numerous models and predicts an output (class) based on their highest probability of chosen class as the output.
 
