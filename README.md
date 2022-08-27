@@ -11,3 +11,4 @@ Soft Voting: In soft voting, the output class is the prediction based on the ave
 Note: Make sure to include a variety of models to feed a Voting Classifier to be sure that the error made by one might be resolved by the other.
 
 # This File will be updated soon
+.......
